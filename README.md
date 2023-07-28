@@ -1,6 +1,6 @@
-# EE475: Introduction to Image Processing (Fall 2018-2019)
+# Introduction to Image Processing (Fall 2018-2019)
 
-Welcome to the GitHub repository for the course EE475 - Introduction to Image Processing. This repository serves as a central hub to showcase my solutions to homework assignments and term projects.
+Welcome to the GitHub repository for the course Introduction to Image Processing. This repository serves as a central hub to showcase my solutions to homework assignments and term projects.
 
 ## Course Summary
 
@@ -22,7 +22,7 @@ This repository contains various assignments and a project, each housed in their
 
 - **./Homework6**: This assignment explores various morphological operations and aims to understand their impact on different image structures.
 
-- **./Homework7 (EE475 Compression Lab)**: A practical examination of diverse compression algorithms and their implications on image quality.
+- **./Homework7 (Compression Lab)**: A practical examination of diverse compression algorithms and their implications on image quality.
 
 - **./Project Cityscape Image Processing**: This project utilizes the Place Pulse II dataset to create a binary classification task based on the safety score label. The repository comprises the project's code, model, and outcomes.
 
