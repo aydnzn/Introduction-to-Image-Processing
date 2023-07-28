@@ -1,5 +1,5 @@
-# EE475 Compression Lab
-This repository houses the EE475 Compression Lab work, offering a practical exploration of various compression algorithms and their effects on image quality.
+# Compression Lab
+This repository houses the Compression Lab work, offering a practical exploration of various compression algorithms and their effects on image quality.
 
 ## Overview
 The lab exercises delve into different compression algorithms and evaluate their impact on image quality. The activities involve responding to specific questions, supplying explanations, and utilizing the VC Demo program to scrutinize image processing functions. 
